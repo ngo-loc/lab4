@@ -1,0 +1,70 @@
+body{
+    color: aliceblue;
+
+    background-image: url("https://handluggageonly.co.uk/wp-content/uploads/2015/07/Japan-2.jpg");
+}
+main{
+    height: auto;
+    width: 70%;
+    overflow: hidden;
+    margin-left: 20%;
+}
+header{
+    padding: 10px;
+    color: #d11818;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+a :hover{
+    color: #d11818;
+}
+#text-title{
+    padding-left: 40%;
+}
+nav{
+    background-color: black;
+    margin: 5px;
+    border-bottom: 1px solid black;
+    color: #fe6852;
+}
+.basic-information{
+    color: #000000;
+    float:right;
+    margin-right: 27%;
+    padding-top: 14px;
+}
+.intro{
+    margin-left: 20px;
+    width: 200px;
+    overflow: visible;
+}
+#my-name{
+    font-weight: bold;
+}
+.text-ima{
+    color: #000000;
+    margin-left: 132px;
+}
+.text-div{
+    color: #000000;
+}
+article div{
+    color: #000000;
+
+    width: 70%;
+    margin-left: 90px;
+
+}
+footer{
+    padding:5px;
+background-color: black;
+}
+footer p{
+    margin-left: 30%;
+}
+footer .logo{
+    background-color: #d11818;
+    margin-left: 30%;
+}
